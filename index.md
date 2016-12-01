@@ -55,7 +55,7 @@ solarfit
 
 ---
 
-## Predicting ozone from wind, temperature and month
+## Predicting ozone from wind, temperature and solar radiation
 
 
 ```r
