@@ -52,7 +52,7 @@ solarfit
 
 ---
 
-## Predicting ozone from wind, temperature and month
+## Predicting ozone from wind, temperature and solar radiation
 
 ```{r ozone prediction}
 modelFit <- with(completed_airqual,lm(log(Ozone)~ Temp+Solar.R+Wind))
