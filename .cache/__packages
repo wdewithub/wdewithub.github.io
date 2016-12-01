@@ -1,0 +1,10 @@
+base
+rsconnect
+shiny
+Rcpp
+mice
+devtools
+slidify
+lattice
+ggplot2
+caret
